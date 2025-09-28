@@ -12,7 +12,7 @@
 - 🌱 **Learning:** Deep diving into **Generative AI** and **Oracle Cloud Infrastructure** concepts.
 - 💡 **Specialties:** Python, ReactJS, Data Structures, Algorithms, and Full-Stack Development.
 - 🤝 **Collaboration:** Seeking opportunities to contribute to open-source projects, particularly those involving NLP/NER or system design.
-- 📧 **Contact:** ravulavivekreddy7@gmail.com | 🔗 [Your LinkedIn Profile Link] *(<-- **UPDATE THIS LINK!**)*
+- 📧 **Contact:** ravulavivekreddy7@gmail.com |
 
 ---
 
